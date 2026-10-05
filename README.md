@@ -1,4 +1,4 @@
-# Intelligent-Document-Q-A-System-using-LLM-RAG-Python-and-Streamlit-
+# Intelligent-Document-Q-A-System-using-LLM-RAG-Python-and-Streamlit
 # 📚 Intelligent Document Q&A System using LLM, RAG, Python and Streamlit
 
 An AI-powered **Document Question Answering System** that allows users to upload a PDF and ask questions about its content.
